@@ -1,8 +1,11 @@
 # chrome
 
 
-## 1. chrome
+## 1. chrome extensions
 
+- [ ] [0001. Custom New Tab URL](https://tdahuyou.github.io/TNotes.chrome/notes/0001.%20Custom%20New%20Tab%20URL/README)
+  - [1. 📝 概述](https://tdahuyou.github.io/TNotes.chrome/notes/0001.%20Custom%20New%20Tab%20URL/README#1--概述)
+  - [2. 💻 核心原理简介](https://tdahuyou.github.io/TNotes.chrome/notes/0001.%20Custom%20New%20Tab%20URL/README#2--核心原理简介)
 - [x] [0004. chrome 上的 Scripty 插件介绍](https://tdahuyou.github.io/TNotes.chrome/notes/0004.%20chrome%20%E4%B8%8A%E7%9A%84%20Scripty%20%E6%8F%92%E4%BB%B6%E4%BB%8B%E7%BB%8D/README)
   - [1. 📝 概述](https://tdahuyou.github.io/TNotes.chrome/notes/0004.%20chrome%20%E4%B8%8A%E7%9A%84%20Scripty%20%E6%8F%92%E4%BB%B6%E4%BB%8B%E7%BB%8D/README#1--概述)
   - [2. 💻 Scripty 在线配置](https://tdahuyou.github.io/TNotes.chrome/notes/0004.%20chrome%20%E4%B8%8A%E7%9A%84%20Scripty%20%E6%8F%92%E4%BB%B6%E4%BB%8B%E7%BB%8D/README#2--scripty-在线配置)
