@@ -16,7 +16,7 @@
   "rootDocsSrcDir": "../_/docs/src",
   "home.features.item": {
     "icon": {
-      "src": "https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/assets/icon--chrome.svg"
+      "src": "https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/assets/icon--chrome.png"
     },
     "title": "chrome",
     "completed_notes_count": 9,
