@@ -86,9 +86,9 @@
 
 ::: swiper
 
-![](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-01-01-19-28-03.png)
+![1](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-01-01-19-28-03.png)
 
-![](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-01-01-19-29-10.png)
+![2](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-01-01-19-29-10.png)
 
 :::
 
@@ -104,9 +104,9 @@
 
 ::: swiper
 
-![](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-01-01-19-31-29.png)
+![1](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-01-01-19-31-29.png)
 
-![](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-01-01-19-31-00.png)
+![2](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-01-01-19-31-00.png)
 
 :::
 
