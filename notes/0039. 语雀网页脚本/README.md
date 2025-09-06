@@ -1,4 +1,4 @@
-# [0039. 语雀网页脚本](https://github.com/Tdahuyou/TNotes.chrome/tree/main/notes/0039.%20%E8%AF%AD%E9%9B%80%E7%BD%91%E9%A1%B5%E8%84%9A%E6%9C%AC)
+# [0039. 语雀网页脚本](https://github.com/tnotesjs/TNotes.chrome/tree/main/notes/0039.%20%E8%AF%AD%E9%9B%80%E7%BD%91%E9%A1%B5%E8%84%9A%E6%9C%AC)
 
 <!-- region:toc -->
 

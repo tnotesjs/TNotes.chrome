@@ -1,4 +1,4 @@
-# [0003. 在 GitHub 上预览自己的笔记时处理一些默认样式](https://github.com/Tdahuyou/TNotes.chrome/tree/main/notes/0003.%20%E5%9C%A8%20GitHub%20%E4%B8%8A%E9%A2%84%E8%A7%88%E8%87%AA%E5%B7%B1%E7%9A%84%E7%AC%94%E8%AE%B0%E6%97%B6%E5%A4%84%E7%90%86%E4%B8%80%E4%BA%9B%E9%BB%98%E8%AE%A4%E6%A0%B7%E5%BC%8F)
+# [0003. 在 GitHub 上预览自己的笔记时处理一些默认样式](https://github.com/tnotesjs/TNotes.chrome/tree/main/notes/0003.%20%E5%9C%A8%20GitHub%20%E4%B8%8A%E9%A2%84%E8%A7%88%E8%87%AA%E5%B7%B1%E7%9A%84%E7%AC%94%E8%AE%B0%E6%97%B6%E5%A4%84%E7%90%86%E4%B8%80%E4%BA%9B%E9%BB%98%E8%AE%A4%E6%A0%B7%E5%BC%8F)
 
 <!-- region:toc -->
 

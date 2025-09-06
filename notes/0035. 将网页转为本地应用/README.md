@@ -1,4 +1,4 @@
-# [0035. 将网页转为本地应用](https://github.com/Tdahuyou/TNotes.chrome/tree/main/notes/0035.%20%E5%B0%86%E7%BD%91%E9%A1%B5%E8%BD%AC%E4%B8%BA%E6%9C%AC%E5%9C%B0%E5%BA%94%E7%94%A8)
+# [0035. 将网页转为本地应用](https://github.com/tnotesjs/TNotes.chrome/tree/main/notes/0035.%20%E5%B0%86%E7%BD%91%E9%A1%B5%E8%BD%AC%E4%B8%BA%E6%9C%AC%E5%9C%B0%E5%BA%94%E7%94%A8)
 
 <!-- region:toc -->
 

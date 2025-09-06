@@ -1,4 +1,4 @@
-# [0022. Video Speed Controller](https://github.com/Tdahuyou/TNotes.chrome/tree/main/notes/0022.%20Video%20Speed%20Controller)
+# [0022. Video Speed Controller](https://github.com/tnotesjs/TNotes.chrome/tree/main/notes/0022.%20Video%20Speed%20Controller)
 
 <!-- region:toc -->
 

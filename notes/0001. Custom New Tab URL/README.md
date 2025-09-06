@@ -1,4 +1,4 @@
-# [0001. Custom New Tab URL](https://github.com/Tdahuyou/TNotes.chrome/tree/main/notes/0001.%20Custom%20New%20Tab%20URL)
+# [0001. Custom New Tab URL](https://github.com/tnotesjs/TNotes.chrome/tree/main/notes/0001.%20Custom%20New%20Tab%20URL)
 
 <!-- region:toc -->
 

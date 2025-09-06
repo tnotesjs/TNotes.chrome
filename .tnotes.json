@@ -1,7 +1,9 @@
 {
   "author": "tnotesjs",
   "repoName": "TNotes.chrome",
-  "keywords": ["TNotes.chrome"],
+  "keywords": [
+    "TNotes.chrome"
+  ],
   "ignore_dirs": [
     ".vscode",
     "0000",
@@ -21,7 +23,7 @@
     "details": "chrome 笔记",
     "link": "https://tnotesjs.github.io/TNotes.chrome/",
     "created_at": 1750939210000,
-    "updated_at": 1757163545272,
+    "updated_at": 1757172129154,
     "days_since_birth": 9495
   },
   "port": 9494,
