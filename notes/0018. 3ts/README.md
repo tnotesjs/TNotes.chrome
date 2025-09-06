@@ -18,7 +18,7 @@
 ## 2. 📺 TNotes.yuque
 
 - 在 TNotes.yuque 上记录了介绍 3ts 的视频。
-- ![图 0](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-05-06-02-54-21.png)
+- ![图 0](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-05-06-02-54-21.png)
 
 ## 3. 📒 3ts 简介
 
@@ -41,7 +41,7 @@
 - 自己写的工具 3ts，尚未上传至 chrome 应用商店中
 - 本想上传，但是尝试了一下，发现需要 5 美元注册费，于是……
 
-![图 1](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-05-06-03-00-32.png)
+![图 1](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-05-06-03-00-32.png)
 
 > 当时写这个插件的时候没付钱注册，后来注册了一个账号，基本的注册流程以及发布插件的一些注意事项啥的，好像是有写过一些笔记来记录的。
 

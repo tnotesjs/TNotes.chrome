@@ -74,5 +74,5 @@ function resizeImage(image) {
     - 感觉去掉下划线更美观。
 - **脚本应用**
   - 可以将脚本丢到 Scripty 插件中，简单配置一下自动加载规则，即可在访问 https://github.com/Tdahuyou/ 自己的 github 仓库数据时自动运行。
-  - ![](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2024-11-29-23-07-30.png)
+  - ![](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2024-11-29-23-07-30.png)
   - 也可以丢到油猴插件中，并添加简单的配置即可使用。

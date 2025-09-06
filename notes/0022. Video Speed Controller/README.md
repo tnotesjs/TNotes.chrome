@@ -27,7 +27,7 @@
     - **注意**：部分网站（如爱奇艺、腾讯视频等）可能因为 DRM 保护而无法生效。
 - **Chrome/Firefox 用户如何安装 Video Speed Controller**
   - **访问 Chrome 商店**：[Video Speed Controller](https://chrome.google.com/webstore/detail/video-speed-controller/nffaoalbilbmmfgbnbgppjihopabppdk)
-  - ![](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-02-03-19-45-27.png)
+  - ![](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-02-03-19-45-27.png)
   - **Firefox 用户**：可以尝试类似扩展，比如 **"Video Speed Up"**。
 - **常用快捷键**
 
@@ -43,7 +43,7 @@
 - **测试对 B 站视频的支持**
   - **站内播放**
     - B 站自带倍速调节功能，可直接使用。不过调节的粒度比较大，目前 `2025 年 2 月 3 日 19:33:14` 支持的倍速有：`0.5x、0.75x、1.0x、1.25x、1.5x、1.75x、2.0x`。
-      - ![](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-02-03-19-33-02.png)
+      - ![](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-02-03-19-33-02.png)
     - 如果使用 **Video Speed Controller**，可以更细粒度（0.1）的控制视频的播放倍速。
   - **站外播放（嵌入播放器）**
     - B 站播放器 **默认不支持倍速**，但 **Video Speed Controller 依旧可以正常使用**。（只要 B 站的嵌入视频是 HTML5 格式）

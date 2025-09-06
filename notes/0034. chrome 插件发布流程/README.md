@@ -46,7 +46,7 @@
   - 需要一个有效的 Google 账户，因为 Chrome Web Store 使用 Google 账户进行登录和管理。
 - **Chrome 开发者仪表板账户**：
   - 注册并创建一个 Chrome 开发者仪表板账户。注册费用为 5 美元，支付成功后才能发布插件。
-  - ![](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2024-12-13-13-26-51.png)
+  - ![](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2024-12-13-13-26-51.png)
 - **开发环境**：
   - 安装 Chrome 浏览器，用于测试和调试插件。
   - 准备好开发工具，如文本编辑器或 IDE（如 Visual Studio Code、WebStorm 等）。
@@ -86,16 +86,16 @@
 
 ::: swiper
 
-![1](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-01-01-19-28-03.png)
+![1](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-01-01-19-28-03.png)
 
-![2](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-01-01-19-29-10.png)
+![2](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-01-01-19-29-10.png)
 
 :::
 
 - 注意隐私权的申请原则 - **非必要不添加**。在提审阶段，
 - **每个权限的申请，都需要填写申请原因，有些权限的申请可能会导致审核时间延长。**
 - 如果你的插件需要申请的权限并不多，审核会快很多，两三天应该就完成了。
-- ![](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-01-01-19-29-58.png)
+- ![](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-01-01-19-29-58.png)
 
 ---
 
@@ -104,9 +104,9 @@
 
 ::: swiper
 
-![1](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-01-01-19-31-29.png)
+![1](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-01-01-19-31-29.png)
 
-![2](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-01-01-19-31-00.png)
+![2](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-01-01-19-31-00.png)
 
 :::
 

@@ -1,9 +1,7 @@
 {
   "author": "Tdahuyou",
   "repoName": "TNotes.chrome",
-  "keywords": [
-    "TNotes.chrome"
-  ],
+  "keywords": ["TNotes.chrome"],
   "ignore_dirs": [
     ".vscode",
     "0000",
@@ -16,7 +14,7 @@
   "rootSidebarDir": "../TNotes/sidebars",
   "root_item": {
     "icon": {
-      "src": "https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/assets/icon--chrome.png"
+      "src": "https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/assets/icon--chrome.png"
     },
     "title": "chrome",
     "completed_notes_count": 10,

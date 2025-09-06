@@ -19,7 +19,7 @@
 - 可以直接上 wiki 上搜 chromium，文章中的 `Browsers based on Chromium` 提到的就是一些相对比较知名的基于 Chromium 内核的浏览器。
 - 🔗 wiki - chromium - Browsers based on Chromium
   - https://en.wikipedia.org/wiki/Chromium_(web_browser)
-  - ![](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-02-15-17-58-02.png)
+  - ![](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-02-15-17-58-02.png)
 - 其中听过的一些浏览器：
   - 微软的 Edge，也就是目前（2025 年 2 月 15 日 17:58:25）内置在 win10、win11 上默认的那个玩意儿。
   - UC Browser，阿里的 UC 浏览器。
@@ -28,12 +28,12 @@
 
 ::: swiper
 
-![1](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-02-15-17-59-25.png)
+![1](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-02-15-17-59-25.png)
 
-![2](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-02-15-17-59-05.png)
+![2](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-02-15-17-59-05.png)
 
-![3](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-02-15-18-01-07.png)
+![3](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-02-15-18-01-07.png)
 
-![4](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-02-15-18-05-16.png)
+![4](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-02-15-18-05-16.png)
 
 :::
