@@ -13,7 +13,7 @@
     "demos",
     "assets"
   ],
-  "rootSidebarDir": "../_/sidebars",
+  "rootSidebarDir": "../TNotes/sidebars",
   "root_item": {
     "icon": {
       "src": "https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/assets/icon--chrome.png"
@@ -23,7 +23,7 @@
     "details": "chrome 笔记",
     "link": "https://tdahuyou.github.io/TNotes.chrome/",
     "created_at": 1750939210000,
-    "updated_at": 1754494580022,
+    "updated_at": 1757163545272,
     "days_since_birth": 9495
   },
   "port": 9494,
@@ -62,7 +62,7 @@
     },
     {
       "ariaLabel": "TNotes.chrome github 仓库链接",
-      "link": "https://github.com/Tdahuyou/TNotes.chrome",
+      "link": "https://github.com/tnotesjs/TNotes.chrome",
       "icon": "github"
     }
   ],
