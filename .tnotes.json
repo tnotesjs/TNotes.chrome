@@ -1,5 +1,5 @@
 {
-  "author": "Tdahuyou",
+  "author": "tnotesjs",
   "repoName": "TNotes.chrome",
   "keywords": ["TNotes.chrome"],
   "ignore_dirs": [
@@ -19,7 +19,7 @@
     "title": "chrome",
     "completed_notes_count": 10,
     "details": "chrome 笔记",
-    "link": "https://tdahuyou.github.io/TNotes.chrome/",
+    "link": "https://tnotesjs.github.io/TNotes.chrome/",
     "created_at": 1750939210000,
     "updated_at": 1757163545272,
     "days_since_birth": 9495
@@ -36,7 +36,7 @@
     },
     {
       "text": "📒 TNotes",
-      "link": "https://tdahuyou.github.io/notes"
+      "link": "https://tnotesjs.github.io/notes"
     },
     {
       "text": "📂 TNotes.yuque",
