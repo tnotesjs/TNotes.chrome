@@ -23,7 +23,7 @@
     "details": "chrome 笔记",
     "link": "https://tnotesjs.github.io/TNotes.chrome/",
     "created_at": 1750939210000,
-    "updated_at": 1757172129154,
+    "updated_at": 1757554005472,
     "days_since_birth": 9495
   },
   "port": 9494,
@@ -38,7 +38,7 @@
     },
     {
       "text": "📒 TNotes",
-      "link": "https://tnotesjs.github.io/notes"
+      "link": "https://tnotesjs.github.io/TNotes"
     },
     {
       "text": "📂 TNotes.yuque",
