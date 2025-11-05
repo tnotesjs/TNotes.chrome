@@ -2,8 +2,7 @@
 
 <!-- region:toc -->
 
-- [chrome](#chrome)
-  - [1. chrome extensions](#1-chrome-extensions)
+
 
 <!-- endregion:toc -->
 
