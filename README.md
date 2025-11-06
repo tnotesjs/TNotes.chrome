@@ -2,7 +2,7 @@
 
 <!-- region:toc -->
 
-
+  - [1. chrome extensions](#1-chrome-extensions)
 
 <!-- endregion:toc -->
 
