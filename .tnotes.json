@@ -20,7 +20,7 @@
     },
     "title": "chrome",
     "completed_notes_count": {
-      "25.06": 0,
+      "25.06": 9,
       "25.07": 10,
       "25.08": 10,
       "25.09": 10,
@@ -31,7 +31,7 @@
     "details": "chrome 笔记",
     "link": "https://tnotesjs.github.io/TNotes.chrome/",
     "created_at": 1750939210000,
-    "updated_at": 1764549239641,
+    "updated_at": 1764578438842,
     "days_since_birth": 9495
   },
   "port": 9494,
