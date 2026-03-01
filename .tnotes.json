@@ -33,12 +33,13 @@
       "25.11": 10,
       "25.12": 10,
       "26.01": 10,
-      "26.02": 10
+      "26.02": 10,
+      "26.03": 10
     },
     "details": "chrome 笔记",
     "link": "https://tnotesjs.github.io/TNotes.chrome/",
     "created_at": 1750939210000,
-    "updated_at": 1771856715922,
+    "updated_at": 1772368230159,
     "days_since_birth": 9495
   },
   "port": 9494,
