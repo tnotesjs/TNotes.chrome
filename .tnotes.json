@@ -20,10 +20,6 @@
     },
     "title": "chrome",
     "completed_notes_count": {
-      "25.01": 0,
-      "25.02": 0,
-      "25.03": 0,
-      "25.04": 0,
       "25.05": 0,
       "25.06": 9,
       "25.07": 10,
@@ -34,13 +30,14 @@
       "25.12": 10,
       "26.01": 10,
       "26.02": 10,
-      "26.03": 10
+      "26.03": 10,
+      "26.04": 10
     },
     "details": "chrome 笔记",
     "link": "https://tnotesjs.github.io/TNotes.chrome/",
     "created_at": 1750939210000,
-    "updated_at": 1772368230159,
-    "days_since_birth": 9495
+    "updated_at": 1775000884000,
+    "days_since_birth": 9774
   },
   "port": 9494,
   "menuItems": [
