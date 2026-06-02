@@ -31,13 +31,14 @@
       "26.01": 10,
       "26.02": 10,
       "26.03": 10,
-      "26.04": 10
+      "26.04": 10,
+      "26.06": 10
     },
     "details": "chrome 笔记",
     "link": "https://tnotesjs.github.io/TNotes.chrome/",
     "created_at": 1750939210000,
-    "updated_at": 1775000884000,
-    "days_since_birth": 9774
+    "updated_at": 1780376780000,
+    "days_since_birth": 9836
   },
   "port": 9494,
   "menuItems": [
