@@ -2,17 +2,17 @@
 
 <!-- region:toc -->
 
-- [1. 📝 概述](#1--概述)
-- [2. 💻 js 实现脚本](#2--js-实现脚本)
+- [1. 概述](#1-概述)
+- [2. js 实现脚本](#2-js-实现脚本)
 
 <!-- endregion:toc -->
 
-## 1. 📝 概述
+## 1. 概述
 
 - 分享个人在预览 github 上的 TNotes 笔记时添加的自定义 JS 脚本。
 - 脚本的功能很简单，主要是针对图片的大小和超链接的默认样式做了些修改。
 
-## 2. 💻 js 实现脚本
+## 2. js 实现脚本
 
 ```js
 var style = document.createElement('style')
@@ -32,7 +32,7 @@ head.appendChild(style)
 
 // 选择具有特定类名的所有div元素
 const divs = document.querySelectorAll(
-  '.js-snippet-clipboard-copy-unpositioned'
+  '.js-snippet-clipboard-copy-unpositioned',
 )
 
 divs.forEach((div) => {

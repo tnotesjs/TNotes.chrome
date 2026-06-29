@@ -2,19 +2,19 @@
 
 <!-- region:toc -->
 
-- [1. 🤔 chromium 是什么？](#1--chromium-是什么)
-- [2. 📒 基于 chromium 内核的浏览器](#2--基于-chromium-内核的浏览器)
+- [1. chromium 是什么？](#1-chromium-是什么)
+- [2. 基于 chromium 内核的浏览器](#2-基于-chromium-内核的浏览器)
 
 <!-- endregion:toc -->
 
-## 1. 🤔 chromium 是什么？
+## 1. chromium 是什么？
 
 - chromium 是 chrome 浏览器的内核。
 - 来自 wiki 的描述：
   - Chromium is a free and open-source web browser project, primarily developed and maintained by Google. It is a widely-used codebase, providing the vast majority of code for Google Chrome and many other browsers, including Microsoft Edge, Samsung Internet, and Opera. The code is also used by several app frameworks.
   - Chromium 是一个免费且开源的网页浏览器项目，主要由 Google 开发和维护。它是一个广泛使用的代码库，为 Google Chrome 以及许多其他浏览器（包括 Microsoft Edge、Samsung Internet 和 Opera）提供了绝大多数的代码。该代码还被多个应用程序框架使用。
 
-## 2. 📒 基于 chromium 内核的浏览器
+## 2. 基于 chromium 内核的浏览器
 
 - 可以直接上 wiki 上搜 chromium，文章中的 `Browsers based on Chromium` 提到的就是一些相对比较知名的基于 Chromium 内核的浏览器。
 - 🔗 wiki - chromium - Browsers based on Chromium

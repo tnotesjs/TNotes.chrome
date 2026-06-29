@@ -1,6 +1,6 @@
 [
   {
-    "text": "1. chrome extensions",
+    "text": "chrome extensions",
     "collapsed": true,
     "items": [
       {
@@ -65,7 +65,7 @@
       }
     ],
     "folderPath": [
-      "1. chrome extensions"
+      "chrome extensions"
     ],
     "tocLineIndex": 0,
     "nodeId": "line:0"

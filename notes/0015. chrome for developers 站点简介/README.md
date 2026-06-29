@@ -2,8 +2,8 @@
 
 <!-- region:toc -->
 
-- [1. 📝 概述](#1--概述)
-- [2. 🤖 AI - Chrome for Developers 站点简介](#2--ai---chrome-for-developers-站点简介)
+- [1. 概述](#1-概述)
+- [2. AI - Chrome for Developers 站点简介](#2-ai---chrome-for-developers-站点简介)
   - [2.1. 🔗 Chrome for Developers 官网](#21--chrome-for-developers-官网)
   - [2.2. 📚 主要内容与功能模块](#22--主要内容与功能模块)
   - [2.3. 💡 核心资源推荐](#23--核心资源推荐)
@@ -13,13 +13,13 @@
 
 <!-- endregion:toc -->
 
-## 1. 📝 概述
+## 1. 概述
 
 - 记录 AI 对 `chrome for developers` 站点的介绍说明。
 - 🔗 chrome for developers
   - https://developer.chrome.com/
 
-## 2. 🤖 AI - Chrome for Developers 站点简介
+## 2. AI - Chrome for Developers 站点简介
 
 ### 2.1. 🔗 Chrome for Developers 官网
 
@@ -40,12 +40,10 @@
 ### 2.3. 💡 核心资源推荐
 
 - **Chrome DevTools**：
-
   - 前端调试工具集，支持 DOM 编辑、网络监控、性能分析等功能。
   - 官方指南链接：[DevTools 文档](https://developer.chrome.com/docs/devtools/)
 
 - **Web Fundamentals**：
-
   - 涵盖现代 Web 开发基础，包括性能优化、响应式设计、安全策略等。
   - 地址：[Web Fundamentals](https://developers.google.com/web/fundamentals)
 

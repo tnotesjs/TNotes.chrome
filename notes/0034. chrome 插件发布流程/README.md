@@ -2,17 +2,17 @@
 
 <!-- region:toc -->
 
-- [1. 📝 概述](#1--概述)
-- [2. 🔗 注册成为 chrome 开发者](#2--注册成为-chrome-开发者)
-- [3. 🔗 查看 Chrome 官方对开发者发布的插件的一些规范要求](#3--查看-chrome-官方对开发者发布的插件的一些规范要求)
-- [4. 🔗 查看 chrome 插件开发文档 - API reference](#4--查看-chrome-插件开发文档---api-reference)
-- [5. 📒 Chrome 插件发布的前提条件](#5--chrome-插件发布的前提条件)
-- [6. 📒 Chrome 插件的发布步骤](#6--chrome-插件的发布步骤)
+- [1. 概述](#1-概述)
+- [2. 注册成为 chrome 开发者](#2-注册成为-chrome-开发者)
+- [3. 查看 Chrome 官方对开发者发布的插件的一些规范要求](#3-查看-chrome-官方对开发者发布的插件的一些规范要求)
+- [4. 查看 chrome 插件开发文档 - API reference](#4-查看-chrome-插件开发文档---api-reference)
+- [5. Chrome 插件发布的前提条件](#5-chrome-插件发布的前提条件)
+- [6. Chrome 插件的发布步骤](#6-chrome-插件的发布步骤)
 - [7. ⚠️ Chrome 插件发布的一些注意事项](#7-️-chrome-插件发布的一些注意事项)
 
 <!-- endregion:toc -->
 
-## 1. 📝 概述
+## 1. 概述
 
 - 笔记中大致记录了发布 Chrome 插件的前提、基本流程、以及一些注意事项。
 - 流程简述：
@@ -20,11 +20,11 @@
   - 2️⃣ 然后得有一个 chrome 账号，缴 5 美元的开发者注册费。
   - 3️⃣ 按照官方要求上传我们的插件，填写好审批表单，等审批通过就 over 了。
 
-## 2. 🔗 注册成为 chrome 开发者
+## 2. 注册成为 chrome 开发者
 
 - https://chrome.google.com/webstore/devconsole/register
 
-## 3. 🔗 查看 Chrome 官方对开发者发布的插件的一些规范要求
+## 3. 查看 Chrome 官方对开发者发布的插件的一些规范要求
 
 - https://developer.chrome.com/blog/cws-policy-revamp-jan23
   - Chrome Web Store Policy Updates
@@ -36,11 +36,11 @@
 - https://www.google.com/url?sa=j&url=https%3A%2F%2Fdeveloper.chrome.com%2Fwebstore%2Fprogram_policies&uct=1720030413&usg=-xRJbrW_V-8Fwq6JVDiAsXehncg.&opi=70078707
   - Chrome 应用商店开发者计划政策
 
-## 4. 🔗 查看 chrome 插件开发文档 - API reference
+## 4. 查看 chrome 插件开发文档 - API reference
 
 - https://developer.chrome.com/docs/extensions/reference/api
 
-## 5. 📒 Chrome 插件发布的前提条件
+## 5. Chrome 插件发布的前提条件
 
 - **Google 账户**：
   - 需要一个有效的 Google 账户，因为 Chrome Web Store 使用 Google 账户进行登录和管理。
@@ -56,7 +56,7 @@
 - **manifest.json 文件**：
   - 创建一个 `manifest.json` 文件，这是 Chrome 插件的配置文件，包含插件的基本信息、权限和其他配置。
 
-## 6. 📒 Chrome 插件的发布步骤
+## 6. Chrome 插件的发布步骤
 
 其实很简单，简单来说就是登录 Google 账号，进入到插件发布页面，将自己写好的插件打个包丢上去，然后按照要求填写信息，提交审核，等待审核通过即可。
 
