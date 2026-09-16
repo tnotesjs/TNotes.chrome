@@ -3,7 +3,7 @@
   "name": "TNotes.chrome",
   "description": "chrome 笔记",
   "icon": {
-    "src": "../assets/.tn-kb-icon.png"
+    "src": "../assets/kb-icon.png"
   },
   "repositoryUrl": "https://github.com/tnotesjs/TNotes.chrome",
   "port": 9494,
